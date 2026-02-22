@@ -1,37 +1,29 @@
-Employee Management System
-Overview
+# Employee Management System
 
-The Employee Management System is a Java-based application developed to demonstrate the implementation of Object-Oriented Programming (OOP) principles, specifically the use of Classes and Objects, in designing a structured and maintainable solution.
+## Overview
 
-The application provides a menu-driven interface that enables users to manage employee records through well-defined operations.
+The Employee Management System is a Java-based application developed to demonstrate the practical implementation of Object-Oriented Programming (OOP) principles. The system is designed using classes and objects to manage employee records in a structured and maintainable manner.
 
-Functionalities
+This project provides a menu-driven interface that allows users to perform essential employee management operations efficiently.
 
-The system supports the following core features:
+---
 
-Add Employee
-Create and store a new employee record within the system.
+## Features
 
-View Employee Details
-Retrieve and display the information of a specific employee.
+The application supports the following functionalities:
 
-Update Employee Information
-Modify existing employee records as required.
+- Add a new employee  
+- View employee details  
+- Update existing employee information  
+- Remove an employee record  
+- Exit the application  
 
-Remove Employee
-Delete an employee record from the system.
+---
 
-Exit Application
-Safely terminate the program.
+## Technical Implementation
 
-Technical Implementation
-
-Developed using Java
-
-Designed using Object-Oriented Programming (OOP) principles
-
-Structured using modular classes for maintainability and scalability
-
-Implements basic CRUD (Create, Read, Update, Delete) operations
-
-Console-based user interaction model
+- Developed using **Java**
+- Implements **Object-Oriented Programming (OOP)** concepts
+- Uses modular class design for better maintainability
+- Performs basic **CRUD (Create, Read, Update, Delete)** operations
+- Console-based user interaction
